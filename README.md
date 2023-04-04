@@ -13,3 +13,8 @@
 - 💬 Ask me about C, Arduino, STM32, HTML, CSS
 - 📫 How to reach me: santinoccetti@gmail.com
 
+<div align="left">
+    <h3>🔨 Languajes and tools:</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="" width="40" height="40">
+    
+</div>
