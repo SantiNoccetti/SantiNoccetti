@@ -16,5 +16,8 @@
 <div align="left">
     <h3>🔨 Languajes and tools:</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="" width="40" height="40">
     
 </div>
