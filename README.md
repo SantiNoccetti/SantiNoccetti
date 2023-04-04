@@ -7,7 +7,7 @@
 
 
 
-
+---
 - 📖 I’m currently studying electronic engineer
 - 🌱 I’m currently learning Web Design
 - 💬 Ask me about C, Arduino, STM32, HTML, CSS
